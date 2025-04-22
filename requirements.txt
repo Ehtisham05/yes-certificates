@@ -5,3 +5,4 @@ fpdf
 qrcode
 PyPDF2
 supabase
+openpyxl
